@@ -1,0 +1,37 @@
+body{
+    background-image: url("impala.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: black;
+}
+#bloco{
+    color: white;
+}
+.Mercedes{
+    color: white;
+}
+#exemplo p{
+    color: White;
+}
+#exemplo li{
+    color: pink;
+}
+
+footer{
+    background-image: url("R.gif");
+    background-size: cover;
+    color: chocolate;
+    border: solid grey 5px;
+}
+/*header{
+    background-color: #ff8989;
+}
+footer{
+    background-color:  #ff8989;
+}
+ul{
+    background-color: #ff8989;
+} */
+
